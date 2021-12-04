@@ -29,13 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot_desktop.jpg)
+![](https://raw.githubusercontent.com/arismercedes/3-column-preview-card-component-main/master/images/screenshot_desktop.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/arismercedes/3-column-preview-card-component-main)
+- Live Site URL:(https://arismercedes.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
