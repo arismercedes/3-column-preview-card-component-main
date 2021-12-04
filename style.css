@@ -84,13 +84,13 @@ body {
   margin-bottom: 34px;
 }
 .item-1 h1::before {
-  background-image: url(/images/icon-sedans.svg);
+  background-image: url(./images/icon-sedans.svg);
 }
 .item-2 h1::before {
-  background-image: url(/images/icon-suvs.svg);
+  background-image: url(./images/icon-suvs.svg);
 }
 .item-3 h1::before {
-  background-image: url(/images/icon-luxury.svg);
+  background-image: url(./images/icon-luxury.svg);
 }
 
 .attribution {
